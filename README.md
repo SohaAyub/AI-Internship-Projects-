@@ -1,12 +1,12 @@
-# 🏠 House Price Prediction
+House Price Prediction
 
-## 📌 Project Overview
+Project Overview
 
 This project predicts house prices using the California Housing Dataset and a Linear Regression model.
 
 ---
 
-## 🎯 Objectives
+Objectives
 
 - Explore the dataset
 - Train a regression model
@@ -15,7 +15,7 @@ This project predicts house prices using the California Housing Dataset and a Li
 
 ---
 
-## 🛠 Technologies Used
+Technologies Used
 
 - Python
 - Pandas
@@ -26,7 +26,7 @@ This project predicts house prices using the California Housing Dataset and a Li
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 ```
 House-Price-Prediction/
@@ -40,7 +40,7 @@ House-Price-Prediction/
 
 ---
 
-## 📊 Machine Learning Workflow
+Machine Learning Workflow
 
 1. Load Dataset
 2. Data Exploration
@@ -53,7 +53,7 @@ House-Price-Prediction/
 
 ---
 
-## 📈 Evaluation Metrics
+Evaluation Metrics
 
 - MAE
 - MSE
@@ -62,7 +62,7 @@ House-Price-Prediction/
 
 ---
 
-## 🚀 Run the Project
+Run the Project
 
 Install dependencies
 
@@ -84,13 +84,13 @@ python src/predict.py
 
 ---
 
-## 📚 Dataset
+Dataset
 
 California Housing Dataset (Scikit-Learn)
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 Soha Ayub
 
